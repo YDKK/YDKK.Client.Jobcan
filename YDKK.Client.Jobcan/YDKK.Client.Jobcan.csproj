@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>YDKK.Client</RootNamespace>
+    <Authors>YDKK</Authors>
+    <Company />
+    <Product />
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageLicenseUrl>https://github.com/YDKK/YDKK.Client.Jobcan/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/YDKK/YDKK.Client.Jobcan</PackageProjectUrl>
+    <RepositoryUrl></RepositoryUrl>
+    <Copyright>Copyright (c) 2018 YDKK</Copyright>
+    <Description>Unofficial Jobcan client library for .NET</Description>
+    <PackageTags>Jobcan</PackageTags>
+    <PackageReleaseNotes>Initial release.</PackageReleaseNotes>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Properties\" />
+  </ItemGroup>
+
+</Project>
